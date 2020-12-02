@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rodo App</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="search_hint">SEARCH MAKE AND MODEL</string>
+    <string name="btn_search_by_vehicle_type">Search by Vehicle Type</string>
+    <string name="btn_see_deals_of_the_day">See Deals of The Day</string>
+    <string name="lable_vehicle_type">Vehicle Type</string>
+    <string name="btn_back">Back Button</string>
+
+
+</resources>
